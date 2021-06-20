@@ -1,0 +1,27 @@
+{
+    "name": "blue32a-sample/design-patterns-php",
+    "description": "Learn design patterns with PHP",
+    "type": "project",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
