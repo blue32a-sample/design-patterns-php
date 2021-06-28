@@ -10,6 +10,7 @@ Learn design patterns with PHP.
 
 - Abstract Factory
 - Builder
+- Factory Method
 
 ## Behavioral
 
