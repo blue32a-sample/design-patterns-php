@@ -12,6 +12,7 @@ Learn design patterns with PHP.
 - Builder
 - Factory Method
 - Prototype
+- Singleton
 
 ## Behavioral
 
