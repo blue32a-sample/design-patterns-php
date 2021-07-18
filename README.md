@@ -16,4 +16,5 @@ Learn design patterns with PHP.
 
 ## Behavioral
 
+- Iterator
 - Template Method
