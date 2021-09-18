@@ -6,11 +6,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "DesignPatterns\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
+            "DesignPatterns\\": "src/",
             "Tests\\": "tests/"
         }
     },
