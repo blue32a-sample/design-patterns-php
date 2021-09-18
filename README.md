@@ -18,3 +18,7 @@ Learn design patterns with PHP.
 
 - Iterator
 - Template Method
+
+## Structural
+
+- Adapter
