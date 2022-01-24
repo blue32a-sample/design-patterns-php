@@ -13,6 +13,7 @@ Learn design patterns with PHP.
 - Factory Method
 - Prototype
 - Singleton
+- Strategy
 
 ## Behavioral
 
