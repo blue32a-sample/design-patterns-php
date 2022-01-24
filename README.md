@@ -22,3 +22,4 @@ Learn design patterns with PHP.
 ## Structural
 
 - Adapter
+- Bridge
