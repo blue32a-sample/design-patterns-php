@@ -24,3 +24,4 @@ Learn design patterns with PHP.
 
 - Adapter
 - Bridge
+- Composite
