@@ -17,6 +17,7 @@ Learn design patterns with PHP.
 
 ## Behavioral
 
+- Chain of Responsibility
 - Iterator
 - Template Method
 - Visitor
