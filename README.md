@@ -19,6 +19,7 @@ Learn design patterns with PHP.
 
 - Chain of Responsibility
 - Iterator
+- Mediator
 - Template Method
 - Visitor
 
