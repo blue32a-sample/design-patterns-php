@@ -28,3 +28,4 @@ Learn design patterns with PHP.
 - Bridge
 - Composite
 - Decorator
+- Facade
