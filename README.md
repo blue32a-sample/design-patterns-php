@@ -22,6 +22,7 @@ Learn design patterns with PHP.
 - Mediator
 - Memento
 - Observer
+- State
 - Template Method
 - Visitor
 
