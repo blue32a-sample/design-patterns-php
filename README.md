@@ -33,3 +33,4 @@ Learn design patterns with PHP.
 - Composite
 - Decorator
 - Facade
+- Flyweight
