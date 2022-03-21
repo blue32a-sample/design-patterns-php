@@ -34,3 +34,4 @@ Learn design patterns with PHP.
 - Decorator
 - Facade
 - Flyweight
+- Proxy
