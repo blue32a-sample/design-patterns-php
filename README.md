@@ -18,6 +18,7 @@ Learn design patterns with PHP.
 ## Behavioral
 
 - Chain of Responsibility
+- Command
 - Iterator
 - Mediator
 - Memento
