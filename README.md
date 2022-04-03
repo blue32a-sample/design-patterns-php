@@ -18,6 +18,7 @@ Learn design patterns with PHP.
 - Memento (GoF)
 - Null Object
 - Observer (GoF)
+- Specification
 - State (GoF)
 - Template Method (GoF)
 - Visitor (GoF)
