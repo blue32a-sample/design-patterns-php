@@ -6,34 +6,36 @@ Learn design patterns with PHP.
 
 [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/README.html)
 
-## Creational
+## Patterns
 
-- Abstract Factory
-- Builder
-- Factory Method
-- Prototype
-- Singleton
-- Strategy
+### Behavioral
 
-## Behavioral
+- Chain of Responsibility (GoF)
+- Command (GoF)
+- Interpreter (GoF)
+- Iterator (GoF)
+- Mediator (GoF)
+- Memento (GoF)
+- Observer (GoF)
+- State (GoF)
+- Template Method (GoF)
+- Visitor (GoF)
 
-- Chain of Responsibility
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Observer
-- State
-- Template Method
-- Visitor
+### Creational
 
-## Structural
+- Abstract Factory (GoF)
+- Builder (GoF)
+- Factory Method (GoF)
+- Prototype (GoF)
+- Singleton (GoF)
+- Strategy (GoF)
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
+### Structural
+
+- Adapter (GoF)
+- Bridge (GoF)
+- Composite (GoF)
+- Decorator (GoF)
+- Facade (GoF)
+- Flyweight (GoF)
+- Proxy (GoF)
