@@ -16,6 +16,7 @@ Learn design patterns with PHP.
 - Iterator (GoF)
 - Mediator (GoF)
 - Memento (GoF)
+- Null Object
 - Observer (GoF)
 - State (GoF)
 - Template Method (GoF)
