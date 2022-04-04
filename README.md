@@ -29,6 +29,7 @@ Learn design patterns with PHP.
 - Abstract Factory (GoF)
 - Builder (GoF)
 - Factory Method (GoF)
+- Pool
 - Prototype (GoF)
 - Singleton (GoF)
 
