@@ -20,6 +20,7 @@ Learn design patterns with PHP.
 - Observer (GoF)
 - Specification
 - State (GoF)
+- Strategy (GoF)
 - Template Method (GoF)
 - Visitor (GoF)
 
@@ -30,7 +31,6 @@ Learn design patterns with PHP.
 - Factory Method (GoF)
 - Prototype (GoF)
 - Singleton (GoF)
-- Strategy (GoF)
 
 ### Structural
 
