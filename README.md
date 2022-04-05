@@ -33,6 +33,7 @@ Learn design patterns with PHP.
 - Prototype (GoF)
 - Simple Factory
 - Singleton (GoF)
+- Static Factory
 
 ### Structural
 
