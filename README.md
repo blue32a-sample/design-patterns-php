@@ -40,6 +40,7 @@ Learn design patterns with PHP.
 - Adapter (GoF)
 - Bridge (GoF)
 - Composite (GoF)
+- Data Mapper
 - Decorator (GoF)
 - Facade (GoF)
 - Flyweight (GoF)
