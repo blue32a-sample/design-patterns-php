@@ -42,6 +42,7 @@ Learn design patterns with PHP.
 - Composite (GoF)
 - Data Mapper
 - Decorator (GoF)
+- Dependency Injection
 - Facade (GoF)
 - Flyweight (GoF)
 - Proxy (GoF)
