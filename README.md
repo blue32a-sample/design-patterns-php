@@ -44,5 +44,6 @@ Learn design patterns with PHP.
 - Decorator (GoF)
 - Dependency Injection
 - Facade (GoF)
+- Fluent Interface
 - Flyweight (GoF)
 - Proxy (GoF)
