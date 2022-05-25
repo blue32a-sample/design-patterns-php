@@ -47,3 +47,4 @@ Learn design patterns with PHP.
 - Fluent Interface
 - Flyweight (GoF)
 - Proxy (GoF)
+- Registry
